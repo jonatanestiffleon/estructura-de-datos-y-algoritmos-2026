@@ -1,4 +1,4 @@
-Calculadora León
+# Calculadora León
 
 Este es un programa en C++ que permite realizar operaciones básicas:
 - Suma
